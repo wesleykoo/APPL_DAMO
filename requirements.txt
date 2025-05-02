@@ -1,0 +1,7 @@
+matplotlib
+plotly
+openturns
+scipy
+nbformat>=4.2.0
+ipykernel
+pandas 
